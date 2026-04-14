@@ -55,7 +55,7 @@ if (!$data) {
 
 <header>
     <div class="container">
-        <a href="index.php" class="logo">NEWS<span>PORTAL</span></a>
+        <a href="index.php" class="logo">BASUY<span>NEWS</span></a>
     </div>
 </header>
 
