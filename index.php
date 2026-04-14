@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Portal</title>
+    <title>BasuyNews</title>
     <style>
         /* Reset Dasar */
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -48,7 +48,7 @@
 
 <header>
     <div class="container">
-        <a href="index.php" class="logo">NEWS<span>PORTAL</span></a>
+        <a href="index.php" class="logo">BASUY<span>NEWS</span></a>
     </div>
 </header>
 
