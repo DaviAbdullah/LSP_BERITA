@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Admin - News Portal</title>
+    <title>Login Admin - Basuy Portal</title>
     <style>
         /* Reset Dasar */
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -104,7 +104,7 @@
 <body>
 
 <div class="login-container">
-    <h2>NEWS<span>ADMIN</span></h2>
+    <h2>BASUY<span>ADMIN</span></h2>
     
     <form method="POST" action="proses_login.php">
         <div class="form-group">
